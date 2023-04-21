@@ -11,14 +11,14 @@ Main requirements:
 -Don’t use Gutenberg Block Editor (install Disable Gutenberg plugin)
 
 Project requirements:
--Use Slick slider for hero section + slick slider for posts below
--Use CPT for Islands, buttons has external links 
--Make sure that CPT's has no archives link and single page
--Explore dropdown generates from Islands posts
--Use ACF Repeater (+ font awesome) for social links
+- Use Slick slider for hero section + slick slider for posts below
+- Use CPT for Islands, buttons has external links 
+- Make sure that CPT's has no archives link and single page
+- Explore dropdown generates from Islands posts
+- Use ACF Repeater (+ font awesome) for social links
  
 Plugins used:
--CPT UI 
+- CPT UI 
 -	ACF Pro
 JS libraries:
 -	Slick slider
